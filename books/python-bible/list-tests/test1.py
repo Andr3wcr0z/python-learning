@@ -35,3 +35,6 @@ if numPick == 9:
 
 if numPick == 10:
     print(f"I have {helloList[-1]} friends plus -{helloList[-1]} friends, which is zero")
+
+# just to be sure
+print(type(numPick))
